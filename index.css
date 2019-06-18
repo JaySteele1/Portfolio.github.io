@@ -1,0 +1,41 @@
+#cont {
+    margin-top: 175px;
+    text-align: center;
+}
+
+.cover-heading {
+    font-size: 75px;
+}
+
+html,
+body {
+    background-image: url(img-buttons.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+h1,
+a,
+p,
+#nav {
+    color: #fff;
+}
+
+#nav {
+    font-size: 20px;
+}
+
+#heading,
+#first,
+#second {
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+#first {
+    font-size: 25px;
+}

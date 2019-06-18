@@ -1,0 +1,21 @@
+#banner {
+    background-color: rgb(189, 190, 194);
+    height: 75px;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+#links {
+    text-align: center;
+}
+
+#left {
+    text-align: center;
+}
+
+#tab {
+    text-indent: 20px;
+}
